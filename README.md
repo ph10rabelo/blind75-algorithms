@@ -18,7 +18,7 @@ Para cada desafio, sigo este fluxo de aprendizado:
 
 | Categoria | Status | Problemas Resolvidos |
 | :--- | :---: | :---: |
-| **Arrays & Hashing** | 🏗️ Em progresso | 1 / 9 |
+| **Arrays & Hashing** | 🏗️ Em progresso | 2 / 9 |
 | **Two Pointers** | 💤 Pendente | 0 / 5 |
 | **Sliding Window** | 💤 Pendente | 0 / 4 |
 | **Stack** | 💤 Pendente | 0 / 3 |
