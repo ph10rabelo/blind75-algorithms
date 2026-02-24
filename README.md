@@ -2,7 +2,7 @@
 
 Este repositório contém minha jornada de estudos através do **Blind 75** (via [NeetCode.io](https://neetcode.io/)), focado em dominar os padrões de lógica e estruturas de dados mais exigidos em processos seletivos de tecnologia.
 
-O objetivo principal aqui não é apenas encontrar o "Accepted" no LeetCode, mas sim entender a transição entre soluções de **Força Bruta ($O(n^2)$)** e soluções **Otimizadas ($O(n)$)**.
+O objetivo principal aqui não é apenas encontrar o "Accepted" no LeetCode, mas sim entender a transição entre soluções de **Força Bruta (O(n^2))** e soluções **Otimizadas (O(n))**.
 
 ## 🚀 Minha Metodologia
 
