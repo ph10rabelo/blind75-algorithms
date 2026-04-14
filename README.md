@@ -30,7 +30,7 @@ Para cada desafio, sigo este fluxo de aprendizado:
 ## 🛠️ Tecnologias e Ferramentas
 
 * **Linguagem:** Python 3 (pela agilidade em prototipar algoritmos).
-* **Conceitos:** Complexidade de Tempo e Espaço (Big O Notation).
+* **Conceitos:** Complexidade de Tempo (Big O Notation).
 
 ---
 
