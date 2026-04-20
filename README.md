@@ -15,27 +15,28 @@ Para cada desafio, sigo este fluxo de aprendizado:
 ---
 
 ## 📊 Progresso do Roadmap
-Categoria,Status,Problemas Resolvidos
-Arrays & Hashing,🟢,9 / 9
-Two Pointers,🏗️,1 / 3
-Sliding Window,💤,0 / 4
-Stack,💤,0 / 1
-Binary Search,💤,0 / 2
-Linked List,💤,0 / 6
-Trees,💤,0 / 11
-Heap / Priority Queue,💤,0 / 1
-Backtracking,💤,0 / 2
-Tries,💤,0 / 3
-Graphs,💤,0 / 6
-Advanced Graphs,💤,0 / 1
-1-D Dynamic Programming,💤,0 / 10
-2-D Dynamic Programming,💤,0 / 2
-Greedy,💤,0 / 2
-Intervals,💤,0 / 5
-Math & Geometry,💤,0 / 3
-Bit Manipulation,💤,0 / 5
+| Categoria | Status | Problemas Resolvidos |
+| :--- | :---: | :---: |
+|**Arrays & Hashing**|🟢|8 / 8|
+|**Two Pointers**|🏗️|1 / 3|
+|**Sliding Window**|💤|0 / 4|
+|**Stack**|💤|0 / 1|
+|**Binary Search**|💤|0 / 2|
+|**Linked List**|💤|0 / 6|
+|**Trees**|💤|0 / 11|
+|**Heap** | Priority Queue|💤|0 / 1|
+|**Backtracking**|💤|0 / 2|
+|**Tries**|💤|0 / 3|
+|**Graphs**|💤|0 / 6|
+|**Advanced Graphs**|💤|0 / 1|
+|**1-D Dynamic Programming**|💤|0 / 10|
+|**2-D Dynamic Programming**|💤|0 / 2|
+|**Greedy**|💤|0 / 2|
+|**Intervals**|💤|0 / 5|
+|**Math & Geometry**|💤|0 / 3|
+|**Bit Manipulation**|💤|0 / 5|
 
----
+> *Status: 🟢 Concluído | 🏗️ Em progresso | 💤 Pendente
 
 ## 🛠️ Tecnologias e Ferramentas
 
