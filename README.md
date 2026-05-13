@@ -19,7 +19,7 @@ Para cada desafio, sigo este fluxo de aprendizado:
 | :--- | :---: | :---: |
 |**Arrays & Hashing**|🟢|8 / 8|
 |**Two Pointers**|🟢|3 / 3|
-|**Sliding Window**|💤|0 / 4|
+|**Sliding Window**|🏗️ |1 / 4|
 |**Stack**|💤|0 / 1|
 |**Binary Search**|💤|0 / 2|
 |**Linked List**|💤|0 / 6|
